@@ -1,5 +1,7 @@
 use('ecommerce');
 
+
+
 db.dropDatabase();
 
 db.products.insertMany([
